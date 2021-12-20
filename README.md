@@ -10,3 +10,5 @@ Files included:
 Usage with dyn_eval:
 
 dyn_eval -q 2019_qrels.DynEval.cal.txt /path/to/run
+
+See https://cormack.uwaterloo.ca/sample/ to learn more about DynEval
